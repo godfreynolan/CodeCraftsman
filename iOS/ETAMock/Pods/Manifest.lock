@@ -1,0 +1,15 @@
+PODS:
+  - Cuckoo (0.8.3)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Cuckoo
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Cuckoo: 2daf5d23383c0a24cd60b73287a5813af4793add
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: af1e11b28e7ead1e303f871f37e13c607c6c233d
+
+COCOAPODS: 1.1.1

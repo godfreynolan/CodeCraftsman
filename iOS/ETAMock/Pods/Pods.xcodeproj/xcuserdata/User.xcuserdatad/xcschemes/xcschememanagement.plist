@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Cuckoo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Pods-ETAMock.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Pods-ETAMockTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Pods-ETAMockUITests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>SwiftyJSON.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>278E3A25A189D14B9FE4E051BB69B7C7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>28E9E25F00435C6815316D559F9BDE2B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4D275F856FD25D5D35D348FFDD8B1242</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>55C83617F5566D48A7ECA581B8597AEC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B12AE0CEF8053954DECB9DEBC08224CF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

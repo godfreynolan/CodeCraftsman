@@ -1,0 +1,10 @@
+cd ETAAndroidMock
+git log in ETAAndroidMock
+git checkout <guid>
+git master
+
+1) unit tests show mocking
+2) postman and newman do the API tests
+3) Espresso does the GUI tests
+
+http://www.cimgf.com/2015/05/26/setting-up-jenkins-ci-on-a-mac-2/
